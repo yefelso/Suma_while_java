@@ -26,8 +26,6 @@ public class Proyect4 {
         while ( i <= numero){
         suma = suma + i;
         i = i+2;
-
-
     }
         System.out.println("la suma de los numeros pares es :"+ suma);
 }
