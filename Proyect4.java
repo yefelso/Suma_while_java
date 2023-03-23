@@ -6,9 +6,10 @@ package proyect.pkg4;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Alumno
+/**Realizar un algoritmo para realizar suma en java
+ *la suma debe ser de numeros pares
+ *usar el bucle while
+ * yefelson
  */
 public class Proyect4 {
 
