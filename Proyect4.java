@@ -1,7 +1,11 @@
-
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
 package proyect.pkg4;
 
 import java.util.Scanner;
+
 /**
  *
  * @author Alumno
@@ -22,8 +26,8 @@ public class Proyect4 {
         while ( i <= numero){
         suma = suma + i;
         i = i+2;
-        
-      
+
+
     }
         System.out.println("la suma de los numeros pares es :"+ suma);
 }
